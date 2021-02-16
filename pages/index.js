@@ -6,6 +6,11 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Minecraft Shorts</title>
+        <meta
+          name="description"
+          content="Minecraft short clips from twitch and youtube"
+        />
+        <meta name="og:title" property="og:title" content="Minecraft Shorts" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
