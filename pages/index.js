@@ -31,7 +31,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         Follow us on
-        <a href="httdivs://www.youtube.com/channel/UCaUIJK7vroE-2fFRKZLGQ_Q">
+        <a href="http://www.youtube.com/channel/UCaUIJK7vroE-2fFRKZLGQ_Q">
           YouTube
         </a>
       </footer>
